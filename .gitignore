@@ -1,2 +1,5 @@
 # ignore pycharm .idea
 /.idea
+
+# ignore __pycache__
+**/__pycache__
